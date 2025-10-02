@@ -3,7 +3,7 @@
 https://github.com/easychen/CookieCloud
 ```
 
-[永久免费CookieCloud服务端](https://ccu.modevil.dpdns.org/cookie-api)
+[永久免费服务端](https://ccu.modevil.dpdns.org/cookie-api)
 
 # updated_cookie.py 用于更新恩山和nodeseek的COOKIES
 
