@@ -1,6 +1,29 @@
-# 先部署CookieCloud
+# Docker部署CookieCloud
 ```
 https://github.com/easychen/CookieCloud
+```
+
+
+# Workers KV部署
+
+## Workers脚本：_worker.js
+
+## KV 创建空间名 COOKIE_KV
+```
+COOKIE_KV
+```
+
+## 绑定 COOKIE_KV
+
+## 指定API目录·可选步骤可跳过
+### 添加变量
+变量名称
+```
+API_ROOT
+```
+值：看自定义
+```
+/cookie
 ```
 
 [永久免费服务端](https://ccu.modevil.dpdns.org/cookie-api)
