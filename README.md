@@ -4,17 +4,17 @@
 
 # Workers KV部署
 
-## Workers脚本：_worker.js
+### Workers脚本：_worker.js
 
-## KV 创建空间名 COOKIE_KV
+### KV 创建空间名 COOKIE_KV
 ```
 COOKIE_KV
 ```
 
-## 绑定 COOKIE_KV
+### 绑定 COOKIE_KV
 
-## 指定API目录·可选步骤可跳过
-### 添加变量
+### 指定API目录·可选步骤可跳过
+#### 添加变量
 变量名称
 ```
 API_ROOT
@@ -24,7 +24,7 @@ API_ROOT
 /cookie
 ```
 
-## 绑定自定义域名·可选步骤可跳过（不绑定国内无法访问）
+### 绑定自定义域名·可选步骤可跳过（不绑定国内无法访问）
 
 [示范：](https://ccu.modevil.dpdns.org/cookie-api)
 
