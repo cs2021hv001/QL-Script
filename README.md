@@ -19,7 +19,7 @@ COOKIE_KV
 ```
 API_ROOT
 ```
-值：看自定义
+值：自定义
 ```
 /cookie
 ```
