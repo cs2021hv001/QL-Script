@@ -1,7 +1,5 @@
-# Docker部署CookieCloud
-```
-https://github.com/easychen/CookieCloud
-```
+# Docker部署CookieCloud查看
+[easychen/CookieCloud](https://github.com/easychen/CookieCloud)
 
 
 # Workers KV部署
