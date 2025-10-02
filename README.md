@@ -26,7 +26,7 @@ API_ROOT
 
 ### 绑定自定义域名·可选步骤可跳过（不绑定中国地区无法访问）
 
-[示范](https://ccu.modevil.dpdns.org/cookie-api)
+[示范] (https://ccu.modevil.dpdns.org/cookie-api)
 
 # updated_cookie.py 用于更新恩山和nodeseek的COOKIES
 
