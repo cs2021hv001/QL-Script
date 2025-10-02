@@ -3,6 +3,8 @@
 https://github.com/easychen/CookieCloud
 ```
 
+[永久免费CookieCloud服务端](https://ccu.modevil.dpdns.org/cookie-api)
+
 # updated_cookie.py 用于更新恩山和nodeseek的COOKIES
 
 
@@ -29,3 +31,11 @@ CC_PASSWORD
 ```
 ENSHANCK
 ```
+
+
+## 致谢
+
+感谢大佬 easychen 所做的努力
+
+
+[easychen/CookieCloud](https://github.com/easychen/CookieCloud)
