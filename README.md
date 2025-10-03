@@ -2,7 +2,7 @@
 [easychen/CookieCloud](https://github.com/easychen/CookieCloud)
 
 
-# Workers KV部署
+# CloudFlare Workers KV部署
 
 ### Workers脚本：_worker.js
 
