@@ -61,7 +61,7 @@ ENSHANCK
 
 ## 致谢
 
-感谢大佬 easychen 所做的努力
+大佬 easychen
 
 
 [easychen/CookieCloud](https://github.com/easychen/CookieCloud)
